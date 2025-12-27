@@ -1,6 +1,6 @@
 ## Interface: 110000
 ## Title: Raid Planner
-## Author: Copilot
+## Author: Github Copolot
 ## Version: 1.0
 ## Notes: Dynamic raid difficulty planner for guild runs
 
